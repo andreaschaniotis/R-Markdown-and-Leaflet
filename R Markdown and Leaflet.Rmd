@@ -21,8 +21,6 @@ In this example, I try to show 3 aercheological places in Athen in Greece.
 
 
 ```{r }
-library(leaflet)
-
 my_map <-
     leaflet() %>%   
     addTiles() %>% 
